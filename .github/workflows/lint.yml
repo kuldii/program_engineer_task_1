@@ -22,4 +22,4 @@ jobs:
 
     - name: Run flake8
       run: |
-        flake8 program_engineer_task_1
+        flake8 ./test_1.py
